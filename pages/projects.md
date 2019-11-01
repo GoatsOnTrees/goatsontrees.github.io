@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: All about me and my life #optional sub title to the post
+subtitle: All about this website #optional sub title to the post
 permalink: /projects/
 header_feature_image:  /images/log.jpg #replace this for yours
 tags:
