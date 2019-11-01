@@ -2,10 +2,10 @@
 layout: post
 title: Why Goats on Trees?
 date: 2019-11-01 12:10
-published: false
+published: true
 header_feature_image: images/2019/07/01-goats-on-a-tree-in-morocco.jpg
 caption:
-tags:    # use [tag1,tag2]
+tags:
   - Journalism
   - Life
   - Food
